@@ -2,7 +2,7 @@
 NAME	= fractol
 
 # Compiler
-CC		= gcc
+CC		= cc
 CFLAGS	= -Werror -Wextra -Wall
 
 # Minilibx
